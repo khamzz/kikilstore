@@ -1,0 +1,22 @@
+2022-05-12T13:52:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\plugin.php pada baris 163
+
+2022-05-12T13:53:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\functions-core.php pada baris 156
+
+2022-05-12T13:54:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\general-template.php pada baris 903
+
+2022-05-12T13:55:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\featured-category.asset.php pada baris 1
+
+2022-05-12T13:55:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\wp-db.php pada baris 2162
+
+2022-05-12T13:59:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php pada baris 295
+
+2022-05-12T14:02:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-content\themes\oceanwp\inc\customizer\controls\typography\class-control-typography.php pada baris 91
+
+2022-05-12T15:04:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\wp-db.php pada baris 2162
+
+2022-05-12T15:05:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-list-util.php pada baris 74
+
+2022-05-12T15:05:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\pomo\entry.php pada baris 51
+
+2022-05-12T15:05:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\rest-api.php pada baris 84
+

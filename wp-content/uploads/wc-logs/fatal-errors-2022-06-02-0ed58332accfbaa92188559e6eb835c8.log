@@ -1,0 +1,14 @@
+2022-06-02T08:06:51+00:00 CRITICAL Uncaught Error: Class "Essential_Addons_Elementor\Classes\Migration" not found in G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\essential-addons-for-elementor-lite\essential_adons_elementor.php:62
+Stack trace:
+#0 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(307): {closure}('')
+#1 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 G:\XAMPP\htdocs\ilhamstore\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 G:\XAMPP\htdocs\ilhamstore\wp-settings.php(620): do_action('wp_loaded')
+#4 G:\XAMPP\htdocs\ilhamstore\wp-config.php(96): require_once('G:\\XAMPP\\htdocs...')
+#5 G:\XAMPP\htdocs\ilhamstore\wp-load.php(50): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\ilhamstore\wp-cron.php(44): require_once('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\essential-addons-for-elementor-lite\essential_adons_elementor.php pada baris 62
+
+2022-06-02T08:11:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\woocommerce\src\Admin\API\Reports\Coupons\Stats\Controller.php pada baris 8
+

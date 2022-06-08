@@ -1,0 +1,32 @@
+2022-05-11T06:50:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-image-editor-gd.php pada baris 208
+
+2022-05-11T07:27:41+00:00 CRITICAL Uncaught Exception: Invalid post. in G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\settings\page\manager.php:101
+Stack trace:
+#0 G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\base\document.php(1542): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\base\document.php(725): Elementor\Core\Base\Document->save_settings(Array)
+#2 G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\kits\manager.php(262): Elementor\Core\Base\Document->update_settings(Array)
+#3 G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\kits\manager.php(424): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_descriptio...', 'Menjual Produk ...')
+#4 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(309): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}('Moto situs Anda...', 'Menjual Produk ...')
+#5 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 G:\XAMPP\htdocs\ilhamstore\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#7 G:\XAMPP\htdocs\ilhamstore\wp-includes\option.php(527): do_action('update_option_b...', 'Moto situs Anda...', 'Menjual Produk ...', 'blogdescription')
+#8 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-setting.php(658): update_option('blogdescription', 'Menjual Produk ...', true)
+#9 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-setting.php(684): WP_Customize_Setting->set_root_value('Menjual Produk ...')
+#10 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-setting.php(540): WP_Customize_Setting->update('Menjual Produk ...')
+#11 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-manager.php(3558): WP_Customize_Setting->save()
+#12 G:\XAMPP\htdocs\ilhamstore\wp-includes\theme.php(3543): WP_Customize_Manager->_publish_changeset_values(449)
+#13 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(307): _wp_customize_publish_changeset('publish', 'auto-draft', Object(WP_Post))
+#14 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#15 G:\XAMPP\htdocs\ilhamstore\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#16 G:\XAMPP\htdocs\ilhamstore\wp-includes\post.php(5317): do_action('transition_post...', 'publish', 'auto-draft', Object(WP_Post))
+#17 G:\XAMPP\htdocs\ilhamstore\wp-includes\post.php(4577): wp_transition_post_status('publish', 'auto-draft', Object(WP_Post))
+#18 G:\XAMPP\htdocs\ilhamstore\wp-includes\post.php(4789): wp_insert_post(Array, true, true)
+#19 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-manager.php(2960): wp_update_post(Array, true)
+#20 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-customize-manager.php(2522): WP_Customize_Manager->save_changeset_post(Array)
+#21 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(307): WP_Customize_Manager->save('')
+#22 G:\XAMPP\htdocs\ilhamstore\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#23 G:\XAMPP\htdocs\ilhamstore\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#24 G:\XAMPP\htdocs\ilhamstore\wp-admin\admin-ajax.php(187): do_action('wp_ajax_customi...')
+#25 {main}
+  thrown di G:\XAMPP\htdocs\ilhamstore\wp-content\plugins\elementor\core\settings\page\manager.php pada baris 101
+
