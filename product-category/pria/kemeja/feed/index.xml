@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kemeja &#8211; Kikil Store</title>
-	<atom:link href="http://khamzz.github.io/kikilstore/product-category/pria/kemeja/feed/" rel="self" type="application/rss+xml" />
-	<link>http://khamzz.github.io/kikilstore</link>
+	<atom:link href="https://khamzz.github.io/kikilstore/product-category/pria/kemeja/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khamzz.github.io/kikilstore</link>
 	<description>Menjual Produk Pilihan Terbaik di Indonesia</description>
 	<lastBuildDate>Tue, 17 May 2022 07:27:04 +0000</lastBuildDate>
 	<language>id-ID</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>http://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
+	<url>https://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
 	<title>Kemeja &#8211; Kikil Store</title>
-	<link>http://khamzz.github.io/kikilstore</link>
+	<link>https://khamzz.github.io/kikilstore</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hush Puppies Damascus Mandarin Collar Shirt</title>
-		<link>http://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/</link>
-					<comments>http://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/#respond</comments>
+		<link>https://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/</link>
+					<comments>https://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[ilhamstore]]></dc:creator>
 		<pubDate>Mon, 16 May 2022 09:10:46 +0000</pubDate>
-				<guid isPermaLink="false">http://khamzz.github.io/kikilstore/?post_type=product&#038;p=845</guid>
+				<guid isPermaLink="false">https://khamzz.github.io/kikilstore/?post_type=product&#038;p=845</guid>
 
 					<description><![CDATA[<strong>100% produk original.</strong>
 
@@ -97,7 +97,7 @@ Lingkar Pinggul: 94cm</p>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khamzz.github.io/kikilstore/product/hush-puppies-damascus-mandarin-collar-shirt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

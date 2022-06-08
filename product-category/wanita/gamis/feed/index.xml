@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gamis &#8211; Kikil Store</title>
-	<atom:link href="http://khamzz.github.io/kikilstore/product-category/wanita/gamis/feed/" rel="self" type="application/rss+xml" />
-	<link>http://khamzz.github.io/kikilstore</link>
+	<atom:link href="https://khamzz.github.io/kikilstore/product-category/wanita/gamis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khamzz.github.io/kikilstore</link>
 	<description>Menjual Produk Pilihan Terbaik di Indonesia</description>
 	<lastBuildDate>Tue, 17 May 2022 07:19:03 +0000</lastBuildDate>
 	<language>id-ID</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>http://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
+	<url>https://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
 	<title>Gamis &#8211; Kikil Store</title>
-	<link>http://khamzz.github.io/kikilstore</link>
+	<link>https://khamzz.github.io/kikilstore</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>EPC Eddy P Chandra EPC Gamis Adele &#8211; Navy Grey</title>
-		<link>http://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/</link>
-					<comments>http://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/#respond</comments>
+		<link>https://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/</link>
+					<comments>https://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/#respond</comments>
 		
 		<dc:creator><![CDATA[ilhamstore]]></dc:creator>
 		<pubDate>Tue, 17 May 2022 07:08:35 +0000</pubDate>
-				<guid isPermaLink="false">http://khamzz.github.io/kikilstore/?post_type=product&#038;p=884</guid>
+				<guid isPermaLink="false">https://khamzz.github.io/kikilstore/?post_type=product&#038;p=884</guid>
 
 					<description><![CDATA[Produk ini adalah hasil produksi dari Designer Brand EPC Eddy P. Chandra. EPC Fashion adalah Official Shop dari brand EPC Eddy P. Chandra. Semua foto produk kami adalah 100% Real Picture dan 100% Original.
 
@@ -83,7 +83,7 @@ Size XXL: 110 / 106 / 112 / 58 / 135</p>
 </table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khamzz.github.io/kikilstore/product/epc-eddy-p-chandra-epc-gamis-adele-navy-grey/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

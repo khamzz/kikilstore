@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tak Berkategori &#8211; Kikil Store</title>
-	<atom:link href="http://khamzz.github.io/kikilstore/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
-	<link>http://khamzz.github.io/kikilstore</link>
+	<atom:link href="https://khamzz.github.io/kikilstore/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khamzz.github.io/kikilstore</link>
 	<description>Menjual Produk Pilihan Terbaik di Indonesia</description>
 	<lastBuildDate>Sat, 14 May 2022 08:27:06 +0000</lastBuildDate>
 	<language>id-ID</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>http://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
+	<url>https://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
 	<title>Tak Berkategori &#8211; Kikil Store</title>
-	<link>http://khamzz.github.io/kikilstore</link>
+	<link>https://khamzz.github.io/kikilstore</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Halo dunia!</title>
-		<link>http://khamzz.github.io/kikilstore/halo-dunia/</link>
-					<comments>http://khamzz.github.io/kikilstore/halo-dunia/#comments</comments>
+		<link>https://khamzz.github.io/kikilstore/halo-dunia/</link>
+					<comments>https://khamzz.github.io/kikilstore/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[ilhamstore]]></dc:creator>
 		<pubDate>Wed, 11 May 2022 06:06:09 +0000</pubDate>
 				<category><![CDATA[Tak Berkategori]]></category>
-		<guid isPermaLink="false">http://khamzz.github.io/kikilstore/?p=1</guid>
+		<guid isPermaLink="false">https://khamzz.github.io/kikilstore/?p=1</guid>
 
 					<description><![CDATA[Selamat datang di Kikil Store. Ini adalah pos pertama kami. Sunting atau hapus, kemudian mulai menulis!]]></description>
 										<content:encoded><![CDATA[
 <p>Selamat datang di Kikil Store. Ini adalah pos pertama kami. Sunting atau hapus, kemudian mulai menulis!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://khamzz.github.io/kikilstore/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khamzz.github.io/kikilstore/halo-dunia/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
