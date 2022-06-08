@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jam &#8211; Kikil Store</title>
+	<atom:link href="http://khamzz.github.io/kikilstore/product-tag/jam/feed/" rel="self" type="application/rss+xml" />
+	<link>http://khamzz.github.io/kikilstore</link>
+	<description>Menjual Produk Pilihan Terbaik di Indonesia</description>
+	<lastBuildDate>Mon, 16 May 2022 09:32:20 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>http://khamzz.github.io/kikilstore/wp-content/uploads/2016/11/cropped-retina-logo-32x32.png</url>
+	<title>jam &#8211; Kikil Store</title>
+	<link>http://khamzz.github.io/kikilstore</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tommy Hilfiger Watches &#8211; Tommy Hilfiger Owen White Dial Brown</title>
+		<link>http://khamzz.github.io/kikilstore/product/tommy-hilfiger-watches/</link>
+					<comments>http://khamzz.github.io/kikilstore/product/tommy-hilfiger-watches/#respond</comments>
+		
+		<dc:creator><![CDATA[ilhamstore]]></dc:creator>
+		<pubDate>Mon, 16 May 2022 08:05:46 +0000</pubDate>
+				<guid isPermaLink="false">http://khamzz.github.io/kikilstore/?post_type=product&#038;p=835</guid>
+
+					<description><![CDATA[<strong>100% Produk Original.</strong>
+
+Tommy Hilfiger Owen White Dial Brown Leather termasuk di dalam <strong>Koleksi Luxury</strong> kami yang dibuat oleh <strong>Desainer Luxury Internasional</strong>.]]></description>
+										<content:encoded><![CDATA[<div>Perhatian!!</div>
+<div class="prd-description mbm">Mohon berikan toleransi pada warna gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.</div>
+<div></div>
+<p>Deskripsi :</p>
+<p>&#8211; Case Size 46 mm<br />
+&#8211; Leather Strap<br />
+&#8211; Stainless Steel Material<br />
+&#8211; Men Watch<br />
+&#8211; Movement Quartz<br />
+&#8211; Water resistance 5 atm (splashproof/rain)</p>
+<table class="ui-grid ui-gridFull product__attr prd-attributes">
+<tbody>
+<tr>
+<td class="product__attr_name">SKU (simple)</td>
+<td>7D6BEACE118F38GS</td>
+</tr>
+<tr>
+<td class="product__attr_name">Warna</td>
+<td>White</td>
+</tr>
+<tr>
+<td class="product__attr_name">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr>
+<td class="product__attr_name">Non-Returnable</td>
+<td>Barang ini tidak dapat ditukar/dikembalikan</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://khamzz.github.io/kikilstore/product/tommy-hilfiger-watches/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
